@@ -1,0 +1,50 @@
+[
+  {
+    "kode": "A01",
+    "nama": "Kopi Hitam",
+    "harga": 5000,
+    "stok": 50
+  },
+  {
+    "kode": "A02",
+    "nama": "Kopi Susu",
+    "harga": 8000,
+    "stok": 40
+  },
+  {
+    "kode": "B01",
+    "nama": "Teh Botol",
+    "harga": 4000,
+    "stok": 60
+  },
+  {
+    "kode": "B02",
+    "nama": "Air Mineral",
+    "harga": 3000,
+    "stok": 100
+  },
+  {
+    "kode": "C01",
+    "nama": "Roti Isi Coklat",
+    "harga": 12000,
+    "stok": 25
+  },
+  {
+    "kode": "C02",
+    "nama": "Indomie Goreng",
+    "harga": 3500,
+    "stok": 80
+  },
+  {
+    "kode": "D01",
+    "nama": "Sabun Mandi",
+    "harga": 9000,
+    "stok": 30
+  },
+  {
+    "kode": "D02",
+    "nama": "Sikat Gigi",
+    "harga": 7500,
+    "stok": 35
+  }
+]

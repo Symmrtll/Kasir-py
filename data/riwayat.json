@@ -1,0 +1,18 @@
+[
+  {
+    "waktu": "2026-11-19T09:29:04",
+    "items": [
+      {
+        "kode": "A01",
+        "nama": "Kopi Hitam",
+        "harga_satuan": 5000,
+        "qty": 3,
+        "subtotal": 15000
+      }
+    ],
+    "subtotal": 15000,
+    "total": 15000,
+    "uang_bayar": 20000,
+    "kembalian": 5000
+  }
+]
